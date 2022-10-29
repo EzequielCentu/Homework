@@ -1,0 +1,5 @@
+Variables: es la forma que tenemos de asignarle un valor a algo en lenguaje de programacion. Por ejemplo usamos var a = 5 para indicar que a tiene un valor de 5
+Strings: son las palabras que usamos en el lenguaje, las mismas van encerradas en comillas simples o dobles ('' "")
+Funciones (argumentos, return): es la forma en la que creamos codigos que podamos utilizar varias veces. Para crear una funcion se le debe agregar un nombre y un argumento que siempre debe ir entre parentesis, el cual es lo que vamos a ir modificando en su uso, un ejemplo seria function Suma(a + b). Utilizamos return para que nos muestre el resultado de dicha funcion
+Declaraciones if: es la forma en la que creamos un codigo con 2 o mas posibles respuestas que nos da la maquina como resultado si se da o no alguna condicion.
+Valores booleanos(true, false): es la forma en la que se expresan algunos resultados dentro de la programacion. Por ejemplo 6>2 nos da como resultado true.
