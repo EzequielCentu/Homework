@@ -1,0 +1,6 @@
+For: es la forma en la que los desarrolladores logramos crear bucles en la consola con el objetivo de que algo se repita N cantidades de veces. Para utilizar el for debemos establecer una variable, asignarle una condicion y despues utilizar el "++" para indicarle que aumente su valor, todo separado por punto y coma. El bucle for quedaria formado de esta manera for (var a = 0; a < 10; a++) {
+console.log(a)
+}
+&&: El operador "Y" lo utilizamos en una funcion cuando tenemos dos condiciones que AMBAS deban ser verdaderas. Si solo una es falsa el codigo no se ejecuta porque las 2 condiciones deben ser verdaderas.
+||: El operador "Ó" lo usamos cuando tengamos 2 condiciones las cuales pueden o no AMBAS ser verdaderas, para ejecutar un codigo con este operador, alcanza con que una de las 2 condiciones sea verdadera.
+!: El operador "NO" lo utilizamos para expresar lo opuesto de lo que estamos diciendo, si en una funcion queremos decir que un numero no es igual al otro lo expresamos de la siguiente manera 2 !== 4.
