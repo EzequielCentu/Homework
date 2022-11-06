@@ -1,0 +1,9 @@
+Arrays: llamamos arrays a la variable donde podemos guardar más de un tipo de dato sin importar si es un string, un booleano, un número, un null o undefined y hasta una función. Lo creamos de la misma manera que al nombrar una variable (var, let o const) pero luego del = ponemos los datos entre un par de corchetes. Queda de esta manera var SoyUnCofre = ["hola", 23, true, null].
+   0     1    2      3
+Para acceder a un dato especificó dentro del array nos referimos a su lugar segun el numero de indice que ocupa, los array siempre comienzan la cuenta desde el 0. SoyUnCofre[0] nos devuelve el string "hola". Si solo nombramos el array nos devuelve todo lo que contiene.
+Podemos agregar o quitar datos del array de varias formas:
+SoyUnCofre.push(): agrega al array lo que pongamos entre parentecis, poniendolo al último lugar y devuelve el número de indice.
+SoyUnCofre.pop(): nos devuelve el ultimo dato del array pero además lo elimina
+SoyUnCofre.unshift(): funciona igual que .push() pero agrega el dato en primer lugar
+SoyUnCofre.shift(): funciona igual que .pop() pero elimina el primer dato
+SoyUnCofre[0] = "nuevo dato": de esta manera no agregamos ni quitamos ningún dato, pero reemplazamos el dato que estaba en el índice 0 por uno nuevo.
